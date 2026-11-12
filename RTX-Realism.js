@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  Zero-drift camera physics, optimized lag-free visuals, and stable turbulence.
-// @author       Google0 (Refactored)
+// @author       LiTo (Refactored)
 // @match        https://beta.geo-fs.com/*
 // @match        https://www.geo-fs.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
